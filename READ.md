@@ -1,5 +1,5 @@
 # EMPLOYEE KPI PERFORMANCE AND SALARY BONUS DASHBOARD W/ EXCEL
-![alt text](/Image/Screenshot%202026-11-16%20153550.png)
+![alt text](/Image/Screenshot%202026-11-18%20092625.png)
 
 ## Introduction
 The Employee KPI Performance & Salary Bonus Dashboard is an Excel-based performance management and compensation analysis project developed to monitor employee productivity, evaluate KPI achievement, and calculate performance-based financial rewards.
